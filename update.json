@@ -1,0 +1,9 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.1",
+  "minVersionCode": 1,
+  "forceUpdate": true,
+  "apkUrl": "https://github.com/alaminazibor/ayqorakey/releases/download/v1.0.1/AyqoraKey-1.0.1.apk",
+  "sha256": "",
+  "changelog": "- Bug fixes\n- Performance improvements"
+}
